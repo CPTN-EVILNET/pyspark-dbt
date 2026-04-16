@@ -1,0 +1,7 @@
+elt_prod:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "C:/Users/suraj/PycharmProjects/pyspark-dbt/codebase/duckdb/db.duckdb"
+      threads: 1
